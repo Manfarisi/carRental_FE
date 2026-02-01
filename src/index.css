@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+      font-family: "Outfit", sans-serif;
+
+}
+
+
+/* tanggal booked */
+.booked-day {
+  color: #dc2626 !important; /* merah */
+  text-decoration: line-through;
+  font-weight: 600;
+  cursor: not-allowed !important;
+  opacity: 0.6;
+}
+
+/* hover tetap mati */
+.booked-day:hover {
+  background-color: transparent !important;
+}
+
+.react-datepicker__day--today {
+  border: 1px solid #2563eb;
+  border-radius: 50%;
+}
+
+.react-datepicker__day--selected {
+  background-color: #2563eb !important;
+  border-radius: 50%;
+}
