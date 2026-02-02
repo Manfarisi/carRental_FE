@@ -58,16 +58,16 @@ The Car Rental Frontend allows users to browse available cars, manage bookings, 
 
 ---
 
-```bash
-npm install
-npm run dev
-```
+bash
+- npm install
+- npm run dev
+
 ---
 
 🔗 Backend Repository
-This frontend consumes APIs from the backend service:
-👉 https://github.com/Manfarisi/carRental_BE
+- This frontend consumes APIs from the backend service:
+- 👉 https://github.com/Manfarisi/carRental_BE
 
 👨‍💻 Author
-Salman Alfarisi
-GitHub: https://github.com/Manfarisev
+- Salman Alfarisi
+- GitHub: https://github.com/Manfarisi
