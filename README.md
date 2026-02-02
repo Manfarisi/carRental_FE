@@ -66,7 +66,7 @@ bash
 
 🔗 Backend Repository
 - This frontend consumes APIs from the backend service:
-- 👉 https://github.com/Manfarisi/carRental_BE
+- 👉 https://github.com/Manfarisi/carRental_api
 
 👨‍💻 Author
 - Salman Alfarisi
